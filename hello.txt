@@ -1,2 +1,5 @@
 스테이지 더하는 명령어/git add 파일명
 ctrl + ~
+git add 파일명
+git commit -m "내 첫번째 커밋
+git push origin master
